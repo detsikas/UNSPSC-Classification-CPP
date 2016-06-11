@@ -20,3 +20,6 @@ it can perform any other training and classification task with extreme accuracy.
 * [GreeklishLetterMapping] (https://github.com/detsikas/GreeklishLetterMapping)
 * [Snowball stemmer] (https://github.com/snowballstem)
 
+# Work in progress
+Some work is still in progress, so if there is something that is not working for you or is not clear do not hesitate to contact me.
+
