@@ -18,5 +18,6 @@ Many thanks for providing us with this amazing tool Mr Bill Yerazunis!
 * [rapidjson] (https://github.com/miloyip/rapidjson)
 * [Words] (https://github.com/detsikas/Words)
 * [StopWordsLib] (https://github.com/detsikas/StopWordsLib)
+* [GreeklishLetterMapping] (https://github.com/detsikas/GreeklishLetterMapping)
 * [Snowball stemmer] (https://github.com/snowballstem)
 
